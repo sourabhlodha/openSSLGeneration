@@ -2,9 +2,9 @@ MIT License
 
 Copyright (c) 2019 Sourabh Lodha
 
-<b>Generate the Open SSL Certificate and import in KeyStore<b>
+#Generate the Open SSL Certificate and import in KeyStore<b>
 
-<b>Please follow the steps mention below.<b>
+##Please follow the steps mention below.<b>
 
 #### Step 1 openssl req -new -newkey rsa:2048 -nodes -keyout https://sourabhlodha.com.key -out sourabhlodha.com.csr -config sourabhlodha.com.cfg
 
